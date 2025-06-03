@@ -1,7 +1,8 @@
 import os
 import logging
 from datetime import datetime
-
+from src.exception import CustomException
+import sys
 
 # Step 1: Create a timestamped log file name
 LOG_FILE = f"{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}.log"
