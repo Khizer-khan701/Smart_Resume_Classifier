@@ -9,6 +9,7 @@ dependencies:
   - spacy
   - nltk
   - streamlit
+  - numpy
   - pip
   - pip:
-      - some-extra-package-if-needed
+      
