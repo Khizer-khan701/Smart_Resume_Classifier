@@ -1,0 +1,14 @@
+name: resume_classifier_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - pandas
+  - spacy
+  - nltk
+  - streamlit
+  - pip
+  - pip:
+      
