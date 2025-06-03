@@ -11,4 +11,4 @@ dependencies:
   - streamlit
   - pip
   - pip:
-      
+      - some-extra-package-if-needed

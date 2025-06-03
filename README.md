@@ -19,3 +19,5 @@ Once the environment is created, activate it with:
 conda activate resume_classifier_env
 ```
 
+Replace some-extra-package-if-needed with actual libraries from pip if needed
+
